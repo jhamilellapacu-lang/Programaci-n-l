@@ -1,12 +1,9 @@
-/*Pedir la nota de un estudiante (0–100).
-• Si la nota es = 51, mostrar:
-o Si está aprobado y la nota es menor a 60, mostrar Calificación = C
-o Si está aprobado y la nota es menor a 70, mostrar Calificación = C+
-o Si está aprobado y la nota es menor a 80, mostrar Calificación = B
-o Si está aprobado y la nota es menor a 90, mostrar Calificación = B+
-o Si está aprobado y la nota es menor a 95, mostrar Calificación = A
-o Si está aprobado y la nota es igual a 100, mostrar Calificación = A+
-• En caso contrario, mostrar “Reprobado”.*/
+// Materia: ProgramaciÃ³n I, Paralelo 4
+// Autor: Jhamile Llapacu Cruz
+// Carnet: 10935560 L.P.
+// Carrera del estudiante: IngenierÃ­a de Sistemas
+// Fecha creaciÃ³n: 25/08/2025
+// NÃºmero de ejercicio: 10
 #include<iostream>
 using namespace std;
 int main()
@@ -41,4 +38,5 @@ int main()
 	
      return 0;	
 }
+
 
