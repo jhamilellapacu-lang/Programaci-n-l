@@ -1,5 +1,9 @@
-/*Crea un programa para realizar la conversi�n de temperatura de grados cent�grado
-a Kelvin.*/
+// Materia: Programación I, Paralelo 4
+// Autor: Jhamile Llapacu Cruz
+// Carnet: 10935560 L.P.
+// Carrera del estudiante: Ingeniería de Sistemas
+// Fecha creación: 25/08/2025
+// Número de ejercicio: 5
 #include<iostream>
 using namespace std;
 int main()
@@ -11,3 +15,4 @@ int main()
 	cout<<"La conversion de centigrados a kelvin es: "<<kelvin;
 	
 }
+
