@@ -1,8 +1,9 @@
-/*Solicitar la edad de un usuario y determinar si:
-a. Ni�o (edad <= 12)
-b. Adolescente (edad <= 18)
-c. Mayor de edad (edad > 18 y edad < 60)
-d. Adulto mayor (edad >= 60)*/
+// Materia: Programación I, Paralelo 4
+// Autor: Jhamile Llapacu Cruz
+// Carnet: 10935560 L.P.
+// Carrera del estudiante: Ingeniería de Sistemas
+// Fecha creación: 25/08/2025
+// Número de ejercicio: 9
 #include<iostream>
 using namespace std;
 int main()
@@ -28,3 +29,4 @@ int main()
 					         
 	return 0;		           
 }
+
