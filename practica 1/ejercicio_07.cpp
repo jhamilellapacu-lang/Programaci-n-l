@@ -1,5 +1,9 @@
-/*Realice un programa que detecte si una letra ingresada el vocal o consonante. Si
-no es ninguna letra que diga que es car�cter especial.*/
+// Materia: Programación I, Paralelo 4
+// Autor: Jhamile Llapacu Cruz
+// Carnet: 10935560 L.P.
+// Carrera del estudiante: Ingeniería de Sistemas
+// Fecha creación: 25/08/2025
+// Número de ejercicio: 7
 #include <iostream>
 using namespace std;
 
@@ -12,15 +16,17 @@ int main() {
     bool esLetra = (letra >= 'A' && letra <= 'Z') || (letra >= 'a' && letra <= 'z');
 
     if (esLetra) {
-        if (letra == 'A' || letra == 'E' || letra == 'I' || letra == 'O' || letra == 'U' ||
-            letra == 'a' || letra == 'e' || letra == 'i' || letra == 'o' || letra == 'u') {
+        if (letra == 'A' || letra == 'E' || letra == 'I' || letra == 'O' || letra == 'U' || letra == 'a' || letra == 'e' || letra == 'i' || letra == 'o' || letra == 'u') {
             cout << "Es una vocal." << endl;
-        } else {
+        } 
+        else if{
             cout << "Es una consonante." << endl;
         }
-    } else {
-        cout << "Es un caracter especial." << endl;
+    } 
+        else {
+            cout << "Es un caracter especial." << endl;
     }
 
     return 0;
 }
+
