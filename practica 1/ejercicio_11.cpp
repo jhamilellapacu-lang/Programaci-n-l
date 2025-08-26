@@ -1,6 +1,9 @@
-/*. Realice un programa que ingrese los meses de 1 al 12 y el programa despliegue el
-mes en literal. Si se ingresa un valor distinto a 1 al 12 el programa debe dar un
-mensaje de mes inv�lido*/
+// Materia: Programación I, Paralelo 4
+// Autor: Jhamile Llapacu Cruz
+// Carnet: 10935560 L.P.
+// Carrera del estudiante: Ingeniería de Sistemas
+// Fecha creación: 25/08/2025
+// Número de ejercicio: 11
 #include<iostream>
 using namespace std;
 int main()
@@ -52,3 +55,4 @@ int main()
 	return 0;
 	      
 }
+
