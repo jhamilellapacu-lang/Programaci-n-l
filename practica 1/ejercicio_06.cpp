@@ -1,4 +1,9 @@
-/*Leer un n�mero entero y mostrar en pantalla si es positivo, negativo o cero*/
+// Materia: Programación I, Paralelo 4
+// Autor: Jhamile Llapacu Cruz
+// Carnet: 10935560 L.P.
+// Carrera del estudiante: Ingeniería de Sistemas
+// Fecha creación: 25/08/2025
+// Número de ejercicio: 6
 #include<iostream>
 using namespace std;
 int main()
@@ -17,3 +22,4 @@ int main()
 		    }
 	return 0;	    
 }
+
