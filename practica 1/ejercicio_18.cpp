@@ -1,10 +1,10 @@
-// Materia: Programación I, Paralelo 4
+// Materia: ProgramaciÃ³n I, Paralelo 4
 // Autor: Jhamile Llapacu Cruz
 // Carnet: 10935560 L.P.
-// Carrera del estudiante: Ingeniería de Sistemas
-// Fecha creación: 03/09/2025
-// Número de ejercicio: 18
-//Crea un programa para mostrar los primero 100 número primos.
+// Carrera del estudiante: IngenierÃ­a de Sistemas
+// Fecha creaciÃ³n: 03/09/2025
+// NÃºmero de ejercicio: 18
+
 #include <iostream>
 using namespace std;
 
@@ -30,3 +30,4 @@ int main() {
 
     return 0;
 }
+
