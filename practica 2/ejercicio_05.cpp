@@ -1,9 +1,9 @@
-// Materia: Programación I, Paralelo 4
+// Materia: ProgramaciÃ³n I, Paralelo 4
 // Autor: Jhamile LLapacu Cruz
 // Carnet: 10935560 L.P.
-// Carrera del estudiante: Ingeniería de Sistemas
-// Fecha creación: 08/09/2025
-// Número de ejercicio: 5
+// Carrera del estudiante: IngenierÃ­a de Sistemas
+// Fecha creaciÃ³n: 08/09/2025
+// NÃºmero de ejercicio: 5
 
 #include <iostream>
 #include <cstdlib>
