@@ -1,10 +1,9 @@
-// Materia: Programación I, Paralelo 4
+// Materia: ProgramaciÃ³n I, Paralelo 4
 // Autor: Jhamile Llapacu Cruz
-// Fecha creación: 17/09/2025
-// Número de ejercicio: 6
+// Fecha creaciÃ³n: 17/09/2025
+// NÃºmero de ejercicio: 6
 #include <iostream>
 using namespace std;
-
 int sumarDigitosNoCero(int numero) {
     int suma = 0;
     while (numero > 0) {
@@ -14,7 +13,6 @@ int sumarDigitosNoCero(int numero) {
     }
     return suma;
 }
-
 int esPrimo(int numero) {
     if (numero < 2) return 0;
     for (int i = 2; i * i <= numero; i++) {
@@ -22,19 +20,16 @@ int esPrimo(int numero) {
     }
     return 1;
 }
-
 int main() {
     int numero;
     cout << "Ingrese un numero entero: ";
     cin >> numero;
-
     int suma = sumarDigitosNoCero(numero);
     cout << "Suma de digitos distintos de cero: " << suma << endl;
-
     if (esPrimo(suma) == 1)
         cout << "La suma es un numero primo." << endl;
     else
         cout << "La suma no es un numero primo." << endl;
-
     return 0;
 }
+
