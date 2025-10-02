@@ -4,6 +4,9 @@
 // Carrera del estudiante: Ingeniería de Sistemas
 // Fecha creación: 25/08/2025
 // Número de ejercicio: 1
+#include<iostream>
+#include<vector>
+using namespace std;
 vector<float> generarVoltajes(int cantidad) {
     vector<float> voltajes;
     float v;
